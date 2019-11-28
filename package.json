@@ -1,0 +1,26 @@
+{
+  "name": "AmazonLike_Storefront",
+  "version": "1.0.0",
+  "description": "Bamazon is an Amazon-like storefront that works using MySQL and Node.js. The app is divided in 3 parts: Costumer side operation, Manager view and Supervisor View.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfa9317/AmazonLike_Storefront.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfa9317/AmazonLike_Storefront/issues"
+  },
+  "homepage": "https://github.com/alfa9317/AmazonLike_Storefront#readme"
+}
